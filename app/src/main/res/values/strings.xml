@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello World April 13 2015</string>
+
+    <string name="hello_world">Hello world! It's me, it's me, it's DDP!</string>
+    <string name="action_settings">Settings</string>
+</resources>
